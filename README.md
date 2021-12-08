@@ -8,7 +8,6 @@
 * [Project Information](#project-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 ## Business Understanding
 > We work for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
@@ -17,7 +16,7 @@
  - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
 
-![Example screenshot](./img/screenshot.png)
+![Loan_image](./images/Loan_image.png)
 
 > When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
