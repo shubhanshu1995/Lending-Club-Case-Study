@@ -45,7 +45,7 @@
 
 > The aformentioned files are present inside this repository as:
 1. loan.csv
-2. Data_Dictionary.csv
+2. Data_Dictionary.xlsx
 
 ## Project Information
 > Our EDA is divided into following parts:
